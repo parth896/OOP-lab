@@ -1,0 +1,24 @@
+{
+  "files.associations": {
+    "*.ejs": "html",
+    "atomic": "cpp",
+    "*.tcc": "cpp",
+    "cmath": "cpp",
+    "compare": "cpp",
+    "deque": "cpp",
+    "string": "cpp",
+    "unordered_map": "cpp",
+    "vector": "cpp",
+    "memory_resource": "cpp",
+    "string_view": "cpp",
+    "algorithm": "cpp",
+    "random": "cpp",
+    "functional": "cpp",
+    "istream": "cpp",
+    "limits": "cpp",
+    "numeric": "cpp",
+    "streambuf": "cpp",
+    "type_traits": "cpp",
+    "tuple": "cpp"
+  }
+}
